@@ -4,7 +4,7 @@
 
 **Backend** - https://hospitalappointmentbooking.herokuapp.com/
 
-## Patient Guide: 
+
 
 ### Patient Login
 ![Patient Login](https://github.com/Project-Based-Learning-IT/healthcare-appointment-scheduling-app/blob/calendar/Software-Engineering/Screenshots/original_login%20patient.jpg)
